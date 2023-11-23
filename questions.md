@@ -11,3 +11,7 @@
 [] Quelle distance faut-il utiliser pour la distance d'Overlap?
 [] Pour chaque valeur de K (entre 2 et 10) l'overlap score c'est le produit des overlaps de toutes les combianaisons possible des clusters ou bien la moyenne des overlaps ou bien le max?
 [] Les résultats pour K = 2 sont legerement mieux que ceux pour K = 3 est-ce un problème?
+### Question 4
+[] Les résultats pour K=2 sont meilleurs aussi 
+[] Le temps d'éxecution est très très long...
+[]
